@@ -4,10 +4,10 @@
 */
 #include <stdio.h>
 int main() {
-	printf("Mackenzie FCI\n");
-	printf("Algoritmos e ");
-	printf("Prog. II\n");
-	printf("Turma 02P\n");
+	printf("Mackenzie - FCI\n");
+	printf("Ciência da Computação\n");
+	printf("Algoritmos e Programação II\n");
+	printf("Turma: 02P\n");
 	system("pause");
 	return 0;
 }
